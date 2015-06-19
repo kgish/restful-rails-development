@@ -1,4 +1,4 @@
 # RESTful-Rails-Development
-Example code taken from the book [RESTful Rails Development](http://shop.oreilly.com/product/0636920034469.do) by 
+Example code taken from the book [RESTful Rails Development](http://shop.oreilly.com/product/0636920034469.do) by Silvia Puglisi.
 
-As I progressed throughgh this book tutorial, I updated each chapter results when successful.
+As I progressed through this book tutorial, I updated each chapter results when successful.
