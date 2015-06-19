@@ -26,6 +26,9 @@ config/secrets.yml
 # unless supporting rvm < 1.11.0 or doing something fancy, ignore this:
 .rvmrc
 
+# Rubymine stuff
+.idea
+
 # if using bower-rails ignore default bower_components path bower.json files
 /vendor/assets/bower_components
 *.bowerrc
