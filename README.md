@@ -17,3 +17,10 @@ In order to populate the tables with test data, run the following command:
 ```bash
 $ rake db:seed
 ```
+
+If everything is going according to plan, we should receive the JSON string:
+
+```bash
+$ curl http://0.0.0.0:3000/api/v1/category/science
+<p>{"category":{"cat_title":"SCIENCE","cat_subcats":34}}
+```
