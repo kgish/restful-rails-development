@@ -6,7 +6,7 @@ As I progressed through this book tutorial, I updated each chapter results when 
 ## Installation
 
 ```bash
-$ git clone https://github.com/kgish/restful-rails-developmet.git
+$ git clone https://github.com/kgish/restful-rails-developmet.git book-rails4
 $ cd book-rails4
 $ bundle install
 $ rake db:migrate
